@@ -8,3 +8,6 @@
 
 ## gpconnect-provider-testing
 <img src="https://github.com/Open-GP/opengp-architecture/blob/master/Diagrams/opengp-gpconnect-provider-testing.svg?raw=true" width="500">
+
+## Test strategy
+<img src="https://github.com/Open-GP/opengp-architecture/blob/master/Diagrams/test-strategy.jpg?raw=true" width="500">
