@@ -18,7 +18,8 @@
 
 > Please see the [diagrams](https://github.com/Open-GP/opengp-architecture/tree/master/Diagrams) in this repo to get more context on each repo.
 
-
+## Backlog of items
+See the list of issue for outstanding work for GPConnect implementation: https://github.com/Open-GP/opengp-architecture/issues
 ## Setup
 
 ### opengp-distro
